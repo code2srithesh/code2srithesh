@@ -26,6 +26,27 @@ I’m a student developer focused on building practical software with real-world
 
 
 * **State Management:** Utilizes the **Provider** pattern for efficient, clean, and reactive UI updates.
+
+Got it. Short, punchy, a bit playful, but still signals thinking, not toy-code.
+Here’s a compact CreditCore section with light emoji and a “unique problem-solving” angle:
+
+⸻
+
+💳 CreditCore (Java Backend Logic)
+
+A Java project where I focused less on features and more on how a credit system thinks.
+
+Instead of hard-coding outcomes, I modeled credit behavior using clean OOP and collections—treating users, balances, and operations like real backend entities 🧠⚙️
+
+What I did differently
+	•	Designed logic-first flows before writing code ✍️
+	•	Solved edge cases around credit updates instead of ignoring them
+	•	Used collections intentionally, not automatically
+	•	Kept the system extensible for a future Spring Boot API 🚀
+
+Tech: Java · OOP · Collections · Git
+This project marks my shift from “Java practice” to backend problem solving.
+
   
 
 🚀 What I’ve Been Working On
@@ -78,7 +99,6 @@ I’m not rushing titles. I’m focusing on foundations, consistency, and real p
 ⸻
 
 🤝 Let’s Connect
-	•	GitHub: You’re already here 🙂
-	•	LinkedIn: (add link if you want)
+
 
 Thanks for stopping by. This profile is a work in progress—just like me.
