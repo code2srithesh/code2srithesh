@@ -43,8 +43,8 @@ Hey there! I'm a passionate developer who loves crafting innovative solutions th
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### AI & ML
-![Groq](https://img.shields.io/badge/Groq_AI-000000?style=for-the-badge&logo=ai&logoColor=white)
-![LLaMA](https://img.shields.io/badge/LLaMA-8B5CF6?style=for-the-badge&logo=meta&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq_AI-000000?style=for-the-badge&logoColor=white)
+![Llama](https://img.shields.io/badge/Llama-8B5CF6?style=for-the-badge&logo=meta&logoColor=white)
 
 ---
 
@@ -55,7 +55,7 @@ Hey there! I'm a passionate developer who loves crafting innovative solutions th
 
 An AI-assisted backend system that revolutionizes technical interviews by converting resumes into depth-based skill verification challenges. Features a unique **Judge vs Witness Architecture** where AI extracts semantic facts while Python enforces deterministic evaluation rules.
 
-**Tech Stack:** `FastAPI` `SQLAlchemy` `PostgreSQL` `Groq AI` `LLaMA 3`
+**Tech Stack:** `FastAPI` `SQLAlchemy` `PostgreSQL` `Groq AI` `Llama 3`
 
 **Key Features:**
 - 🎯 Progressive depth-based questioning system
