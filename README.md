@@ -2,103 +2,13 @@ Hi, I’m Srithesh 👋
 
 I’m a student developer focused on building practical software with real-world impact. I enjoy working across Java & backend systems, mobile apps, and product-focused projects that solve actual problems rather than just academic ones.
 
----
-
-## 🤝 SkillSwap
-
-**SkillSwap** is a specialized peer-to-peer exchange platform designed specifically for college ecosystems. It enables students to trade knowledge and expertise in a secure, domain-restricted environment.
-
-### 🌟 Key Features
-
-* **Verified Community:** Authentication is strictly restricted to university email domains (e.g., `@vitapstudent.ac.in`), ensuring a trusted network of students.
-* **Skill Discovery:** A dynamic search and discovery engine for browsing available skill posts and learning opportunities.
-* **Structured "Swap" Workflow:** A dedicated request management system with real-time status updates (Pending, Accepted, Rejected).
-* **Context-Specific Messaging:** Secure, swap-scoped chat functionality that unlocks only after a swap request is accepted.
-* **Personalized Profiles:** Modern student profiles featuring custom bios, usernames, and avatar rendering.
-
-### 🛠️ Technical Architecture
-
-* **Frontend:** Built with **Flutter (Dart)** for a responsive web experience.
-* **Backend-as-a-Service:** Powered by **Firebase** for rapid, scalable deployment.
-* **Authentication:** Firebase Auth (Google & Email/Password).
-* **Database:** Cloud Firestore for real-time data sync and messaging.
-* **Hosting:** Firebase Hosting.
+# 💫 About Me:
+🔭 I’m currently working on real-world tech projects and sharpening my problem-solving skills<br>👯 I’m looking to collaborate on beginner-friendly apps, open-source projects, and creative tech ideas<br>🤝 I’m looking for help with scaling projects, clean architecture, and best practices<br>🌱 I’m currently learning data structures, app development, and practical AI tools<br>💬 Ask me about Java, Android basics, project building, or video editing<br>⚡ Fun fact: I enjoy turning simple ideas into useful products and explaining complex things simply
 
 
-* **State Management:** Utilizes the **Provider** pattern for efficient, clean, and reactive UI updates.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/srithesh.r) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:srithesh26@gmail.com) 
 
-Got it. Short, punchy, a bit playful, but still signals thinking, not toy-code.
-Here’s a compact CreditCore section with light emoji and a “unique problem-solving” angle:
+# 💻 Tech Stack:
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
-⸻
-
-💳 CreditCore (Java Backend Logic)
-
-A Java project where I focused less on features and more on how a credit system thinks.
-
-Instead of hard-coding outcomes, I modeled credit behavior using clean OOP and collections—treating users, balances, and operations like real backend entities 🧠⚙️
-
-What I did differently
-	•	Designed logic-first flows before writing code ✍️
-	•	Solved edge cases around credit updates instead of ignoring them
-	•	Used collections intentionally, not automatically
-	•	Kept the system extensible for a future Spring Boot API 🚀
-
-Tech: Java · OOP · Collections · Git
-This project marks my shift from “Java practice” to backend problem solving.
-
-  
-
-🚀 What I’ve Been Working On
-
-🔧 Backend & Java
-	•	Building Java-based applications with a strong focus on fundamentals: collections, data structures, OOP, clean architecture, and REST principles.
-	•	Learning and implementing Spring & Spring Boot concepts through hands-on projects.
-	•	Designing APIs, handling validations, exception flows, and basic security patterns.
-
-
-🏪 Real‑World Freelance Project
-	•	Smart Retail / Pharmacy Management System
-	•	Replaced a fully paper-based workflow with a digital system
-	•	Improved sales tracking, inventory visibility, and customer recall
-	•	Worked directly with a local business owner to understand real constraints
-	•	Focus on usability, reliability, and simplicity over complexity
-
-⸻
-
-🧠 What I’m Actively Learning
-	•	Advanced Spring Boot & backend design
-	•	Writing cleaner, more maintainable code
-	•	Git & GitHub workflows (branching, commits, collaboration)
-	•	System thinking: understanding why a solution works, not just how
-
-⸻
-
-🛠️ Tech Stack
-	•	Languages: Java, Python, Dart (basics)
-	•	Frameworks: Spring Boot, Flutter
-	•	Databases: Firebase Firestore, basic SQL
-	•	Tools: Git, GitHub, VS Code
-	•	Concepts: OOP, REST APIs, MVC, data structures
-
-⸻
-
-📂 What You’ll Find in My Repositories
-	•	Java practice programs & problem-solving code
-	•	Backend mini-projects and learning experiments
-	•	Flutter application projects
-	•	Real-world project implementations
-	•	Clean, incremental progress rather than copy‑paste demos
-
-⸻
-
-🎯 Current Focus
-
-I’m not rushing titles. I’m focusing on foundations, consistency, and real projects so that when I say I’m a backend or software developer, the work speaks first.
-
-⸻
-
-🤝 Let’s Connect
-
-
-Thanks for stopping by. This profile is a work in progress—just like me.
