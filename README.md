@@ -3,7 +3,7 @@ Hi, I’m Srithesh 👋
 I’m a student developer focused on building practical software with real-world impact. I enjoy working across Java & backend systems, mobile apps, and product-focused projects that solve actual problems rather than just academic ones.
 
 # 💫 About Me:
-🔭 I’m currently working on real-world tech projects and sharpening my problem-solving skills<br>👯 I’m looking to collaborate on beginner-friendly apps, open-source projects, and creative tech ideas<br>🤝 I’m looking for help with scaling projects, clean architecture, and best practices<br>🌱 I’m currently learning data structures, app development, and practical AI tools<br>💬 Ask me about Java, Android basics, project building, or video editing<br>⚡ Fun fact: I enjoy turning simple ideas into useful products and explaining complex things simply
+🔭 I’m currently working on real-world tech projects and sharpening my problem-solving skills and looking to collaborate on beginner-friendly apps, open-source projects, and creative tech ideas. I’m looking for help with scaling projects, clean architecture, and best practices and I’m currently learning data structures, app development, and practical AI tools. Ask me about Java, Android basics, project building, or video editing. I enjoy turning simple ideas into useful products and explaining complex things simply
 
 
 ## 🌐 Socials:
